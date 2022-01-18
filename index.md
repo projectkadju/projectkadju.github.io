@@ -1,4 +1,10 @@
-# ДОБРО ПОЖАЛОВАТЬ НА САЙТ КАДЖУ! 
-## Здесь в теории что-то могло быть, но.. 
-### Тут ничего нет
-#### Ура!!! 
+<!DOCTYPE html>
+<html>
+<head>
+<title>KadjuProject</title>
+</head>
+<body>
+<h1>KADJUPROJECT</h1>
+<h2>СКОРО?</h2>
+</body>
+</html>
